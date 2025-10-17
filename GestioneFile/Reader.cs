@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace GestioneFile
 {
-    internal class Program
+    internal class Reader
     {
-        static void Main(string[] args)
-        {
-
-            
-        }
     }
 }
